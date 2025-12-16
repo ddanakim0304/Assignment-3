@@ -1,0 +1,111 @@
+{
+    "source_video": "Train.mp4",
+    "total_segments": 15,
+    "segments": [
+        {
+            "id": 1,
+            "start_frame": 32,
+            "start_utc": 1763997302.1542118,
+            "end_frame": 165,
+            "end_utc": 1763997315.454199
+        },
+        {
+            "id": 2,
+            "start_frame": 1017,
+            "start_utc": 1763997400.6541178,
+            "end_frame": 1146,
+            "end_utc": 1763997413.5541055
+        },
+        {
+            "id": 3,
+            "start_frame": 1927,
+            "start_utc": 1763997491.654031,
+            "end_frame": 2062,
+            "end_utc": 1763997505.1540182
+        },
+        {
+            "id": 4,
+            "start_frame": 2920,
+            "start_utc": 1763997590.9539363,
+            "end_frame": 3055,
+            "end_utc": 1763997604.4539235
+        },
+        {
+            "id": 5,
+            "start_frame": 4359,
+            "start_utc": 1763997734.853799,
+            "end_frame": 4494,
+            "end_utc": 1763997748.3537862
+        },
+        {
+            "id": 6,
+            "start_frame": 5977,
+            "start_utc": 1763997896.6536448,
+            "end_frame": 6114,
+            "end_utc": 1763997910.3536317
+        },
+        {
+            "id": 7,
+            "start_frame": 6938,
+            "start_utc": 1763997992.7535532,
+            "end_frame": 7080,
+            "end_utc": 1763998006.9535396
+        },
+        {
+            "id": 8,
+            "start_frame": 7932,
+            "start_utc": 1763998092.1534584,
+            "end_frame": 8071,
+            "end_utc": 1763998106.053445
+        },
+        {
+            "id": 9,
+            "start_frame": 8880,
+            "start_utc": 1763998186.953368,
+            "end_frame": 9022,
+            "end_utc": 1763998201.1533544
+        },
+        {
+            "id": 10,
+            "start_frame": 9518,
+            "start_utc": 1763998250.753307,
+            "end_frame": 9660,
+            "end_utc": 1763998264.9532936
+        },
+        {
+            "id": 11,
+            "start_frame": 10500,
+            "start_utc": 1763998348.9532135,
+            "end_frame": 10634,
+            "end_utc": 1763998362.3532007
+        },
+        {
+            "id": 12,
+            "start_frame": 11374,
+            "start_utc": 1763998436.35313,
+            "end_frame": 11514,
+            "end_utc": 1763998450.3531168
+        },
+        {
+            "id": 13,
+            "start_frame": 12248,
+            "start_utc": 1763998523.7530468,
+            "end_frame": 12392,
+            "end_utc": 1763998538.153033
+        },
+        {
+            "id": 14,
+            "start_frame": 13180,
+            "start_utc": 1763998616.9529579,
+            "end_frame": 13321,
+            "end_utc": 1763998631.0529444
+        },
+        {
+            "id": 15,
+            "start_frame": 14122,
+            "start_utc": 1763998711.152868,
+            "end_frame": 14262,
+            "end_utc": 1763998725.1528547
+        }
+    ]
+}
