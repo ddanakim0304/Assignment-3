@@ -90,7 +90,7 @@ def main():
         # Current Marking Status
         if start_point:
             cv2.putText(display, f"IN PROGRESS: Started at {start_point['frame']}", (10, 105), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (0, 100, 255), 2)
-            # Visual indicator that we are recording
+            # Visual indicator that for recording
             cv2.circle(display, (550, 60), 15, (0, 0, 255), -1)
         else:
             cv2.putText(display, "Waiting for Start [S]...", (10, 105), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (200, 200, 200), 1)
