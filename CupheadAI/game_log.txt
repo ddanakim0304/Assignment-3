@@ -3,4 +3,22 @@
 2025-12-20 03:54:35 - LOST - Survived: 7.55s
 2025-12-20 03:54:49 - LOST - Survived: 7.38s
 2025-12-20 03:55:05 - LOST - Survived: 9.07s
-2025-12-20 03:55:19 - LOST - Survived: 7.22s
+2025-12-20 03:55:19 - LOST - Survived: 7.22s2025-12-20 04:03:23 - LOST (GRU) - Survived: 8.72s
+2025-12-20 04:03:38 - LOST (GRU) - Survived: 8.17s
+2025-12-20 04:04:10 - LOST (GRU) - Survived: 9.83s
+2025-12-20 04:04:21 - LOST (GRU) - Survived: 7.13s
+2025-12-20 04:04:43 - LOST (GRU) - Survived: 12.22s
+2025-12-20 04:04:52 - LOST (GRU) - Survived: 9.26s
+2025-12-20 04:05:07 - LOST (GRU) - Survived: 9.61s
+2025-12-20 04:05:26 - LOST (GRU) - Survived: 12.97s
+2025-12-20 04:05:37 - LOST (GRU) - Survived: 7.90s
+2025-12-20 04:06:53 - LOST (GRU) - Survived: 0.00s
+2025-12-20 04:07:26 - LOST (GRU) - Survived: 7.21s
+2025-12-20 04:07:40 - LOST (GRU) - Survived: 7.44s
+2025-12-20 04:07:55 - LOST (GRU) - Survived: 7.10s
+2025-12-20 04:08:09 - LOST (GRU) - Survived: 9.06s
+2025-12-20 04:08:24 - LOST (GRU) - Survived: 7.78s
+2025-12-20 04:08:38 - LOST (GRU) - Survived: 7.12s
+2025-12-20 04:08:59 - LOST (GRU) - Survived: 13.30s
+2025-12-20 04:09:08 - LOST (GRU) - Survived: 8.39s
+2025-12-20 04:09:22 - LOST (GRU) - Survived: 6.58s

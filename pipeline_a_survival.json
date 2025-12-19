@@ -1,0 +1,36 @@
+{
+    "source_video": "CupheadAI/[CS156] Pipeline A final gameplay.mp4",
+    "total_sessions": 5,
+    "sessions": [
+        {
+            "id": 1,
+            "start_frame": 515,
+            "end_frame": 741,
+            "duration_seconds": 7.533333333333333
+        },
+        {
+            "id": 2,
+            "start_frame": 989,
+            "end_frame": 1215,
+            "duration_seconds": 7.533333333333333
+        },
+        {
+            "id": 3,
+            "start_frame": 1431,
+            "end_frame": 1644,
+            "duration_seconds": 7.1
+        },
+        {
+            "id": 4,
+            "start_frame": 1857,
+            "end_frame": 2064,
+            "duration_seconds": 6.9
+        },
+        {
+            "id": 5,
+            "start_frame": 2278,
+            "end_frame": 2528,
+            "duration_seconds": 8.333333333333334
+        }
+    ]
+}
