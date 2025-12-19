@@ -1,0 +1,13 @@
+{
+    "source_video": "Train.mp4",
+    "total_segments": 1,
+    "segments": [
+        {
+            "id": 1,
+            "start_frame": 47,
+            "start_utc": 1764000926.2127175,
+            "end_frame": 188,
+            "end_utc": 1764000940.312704
+        }
+    ]
+}
