@@ -14,7 +14,7 @@ from pynput.keyboard import Controller, Key
 
 keyboard_controller = Controller()
 
-# --- KEYBOARD LISTENER ---p
+# --- KEYBOARD LISTENER ---
 class KeyMonitor:
     def __init__(self):
         self.pressed_keys = set()
