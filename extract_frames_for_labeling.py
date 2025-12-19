@@ -3,11 +3,10 @@ import json
 import os
 import random
 
-# --- Config ---
 ASSIGNMENT_2_DIR = os.path.join("..", "Assignment 2", "data", "sessions")
 VIDEO_PATH = os.path.join(ASSIGNMENT_2_DIR, "Train.mp4")
 SEGMENTS_FILE = "potato_phase_segments.json"
-OUTPUT_DIR = "datasets/raw_images"  # Where images will go
+OUTPUT_DIR = "datasets/raw_images"
 
 NUM_FRAMES_TO_EXTRACT = 60  # Extract 60 frames total for labeling
 
