@@ -1,0 +1,6 @@
+2025-12-20 03:54:05 - LOST - Survived: 8.22s
+2025-12-20 03:54:21 - LOST - Survived: 8.04s
+2025-12-20 03:54:35 - LOST - Survived: 7.55s
+2025-12-20 03:54:49 - LOST - Survived: 7.38s
+2025-12-20 03:55:05 - LOST - Survived: 9.07s
+2025-12-20 03:55:19 - LOST - Survived: 7.22s
